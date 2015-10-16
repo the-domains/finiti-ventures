@@ -1,6 +1,6 @@
 name: Finiti Ventures
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.7650583034846932
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.3769004053901881
